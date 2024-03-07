@@ -46,10 +46,10 @@ npx test
 
 # ScreenShot
 
-### Task-1
+### TASK #1 - JavaScript
 ![task1](https://github.com/Mirza-Hassan/react_space-x-missions-list/assets/17096257/0240a72b-d9cf-4a51-9dfa-8f3d755366e1)
 
-### Task-2
+### TASK #2 - React & Hooks
 ![Task2](https://github.com/Mirza-Hassan/react_space-x-missions-list/assets/17096257/357891f4-e163-47f0-b167-9f9396b05adf)
 
 
