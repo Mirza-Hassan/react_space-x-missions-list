@@ -39,7 +39,7 @@ const FilteredSpaceXMissions = () => {
 
       setFilteredMissions(filteredAndSortedMissions);
     } catch (error) {
-      console.error("Failed to fetch missions:", error.response || error.message);
+      // console.error("Failed to fetch missions:", error.response || error.message);
     } finally {
       setLoading(false);
     }
