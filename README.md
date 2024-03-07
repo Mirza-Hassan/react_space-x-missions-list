@@ -1,4 +1,4 @@
-# SpaceX Missions List with React and JavaScript Tasks
+# SpaceX Missions List 
 
 # Description
 A React application fetching and displaying SpaceX missions based on filter parameters, implemented using JavaScript tasks.
